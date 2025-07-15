@@ -3,6 +3,18 @@
 <h1 align="center">
   Hey there, I’m Priyanshu 👋
 </h1>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=500&color=00F7FF&center=true&vCenter=true&width=435&lines=Hi%2C+I'm+Priyanshu+Yadav+%F0%9F%91%8B;Full‑Stack+Developer+(MERN)+%E2%9C%8C%EF%B8%8F;Passionate+about+clean+backend+architecture;Lifelong+learner+%F0%9F%93%9A" alt="Typing SVG" />
+</p>
+
+---
+
+### 👨‍💻 About Me
+🎓 **B.Tech in Computer Science** — Lovely Professional University  
+🛠 **MERN Stack Developer** who loves crafting clean, scalable apps  
+🧠 Focus: `Backend Engineering` • `Distributed Systems` • `Cloud‑Native Patterns`  
+🌱 Currently deepening knowledge in system design & Node.js performance tuning  
+
 
 <p align="center">
   <a href="https://github.com/Priyanshu-1Yadav?tab=followers">
